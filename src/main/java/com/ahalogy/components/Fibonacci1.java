@@ -1,8 +1,6 @@
 package com.ahalogy.components;
 
-class Fibonacci1 {
-	
-	int tempVar = 0;
+class Fibonacci {
 	
 	void generateSequence(int numInSequence)
 	{
